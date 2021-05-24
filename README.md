@@ -1,6 +1,6 @@
 # ExpenseManager
 
-## This app uses Firebase to save and retrive data. Save notes using Voice Recognition. Add and Save transactions and it will be saved againt the user name.
+## This app uses Firebase to save and retrive data. Save notes using Voice Recognition. Add and Save transactions and it will be saved against the user name.
 
 ### The user name is CASE SENSITIVE.
 
