@@ -6,10 +6,9 @@
 
 Screen Shots:
 <p>
-<img src="https://github.com/AdityaKanikdaley/ExpenseManager/blob/master/EM_1.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/ExpenseManager/blob/master/EM_2.jpg" width="200" height="400" />
-<img src="https://github.com/AdityaKanikdaley/ExpenseManager/blob/master/EM_3.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/ExpenseManager/blob/master/EM_4.jpg" width="200" height="400" />
+<img src="https://github.com/AdityaKanikdaley/ExpenseManager/blob/master/git_IMG/EM_1.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/ExpenseManager/blob/master/git_IMG/EM_2.jpg" width="200" height="400" />
+<img src="https://github.com/AdityaKanikdaley/ExpenseManager/blob/master/git_IMG/EM_3.jpg" width="200" height="400" />    <img src="https://github.com/AdityaKanikdaley/ExpenseManager/blob/master/git_IMG/EM_4.jpg" width="200" height="400" />
 </p>
 
 ## Voice Recognition in NOTES:
-<img src="https://github.com/AdityaKanikdaley/ExpenseManager/blob/master/EM.gif" width="200" height="400" />
-
+<img src="https://github.com/AdityaKanikdaley/ExpenseManager/blob/master/git_IMG/EM.gif" width="200" height="400" />
